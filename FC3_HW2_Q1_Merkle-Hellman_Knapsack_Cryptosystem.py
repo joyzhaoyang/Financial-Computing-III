@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 This file: FC3HW2Prob1.py
 Programmer: Joy Zhao (yangzhao@tepper.cmu.edu)
